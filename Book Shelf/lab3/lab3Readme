@@ -1,0 +1,7 @@
+BY SUBMITTING THIS FILE TO CARMEN, I CERTIFY THAT I HAVE PERFORMED ALL OF THE WORK TO CREATE THIS FILE AND/OR DETERMINE THE ANSWERS FOUND WITHIN THIS FILE MYSELF WITH NO ASSISTANCE FROM ANY PERSON (OTHER THAN THE INSTRUCTOR OR GRADERS OF THIS COURSE) AND I HAVE STRICTLY ADHERED TO THE TENURES OF THE OHIO STATE UNIVERSITY’S ACADEMIC INTEGRITY POLICY.
+THIS IS THE README FILE FOR LAB 3.
+
+1. Ephratah Meskel
+2. 20 hours
+3. I figured out how to use pointers as well as navigating passing by reference/freeing memory.
+4. When using gdb, I didn't encounter any bugs, but I was able to see that my code was errorproof by making breakpoints. When I made those breakpoints, I was able to see that all of my loops itereated the correct amount of times and made sure my pointers were getting allocated space. It was harder to see the values of pointers since I might not have acess to seeing the data at a certian point of the program (segmentation error) but I could see/print other things.
